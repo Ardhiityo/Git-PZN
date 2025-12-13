@@ -1,0 +1,9 @@
+This is file 1
+New line 
+Feature 1
+Feature A
+Feature B
+Feature C
+Master
+Master
+Feature Merge Squash

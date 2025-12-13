@@ -1,0 +1,5 @@
+This is file 2
+Feature 2
+Feature A
+Feature Rebase
+Feature Merge Squash
